@@ -15,8 +15,6 @@ revenue, always having a user-centric mindset.
  </div>
 </a>
 
-[Enlace en nueva pestaña](https://www.ejemplo.com)
-
 </div>
 
 <br />
