@@ -17,6 +17,7 @@ revenue, always having a user-centric mindset.
 </div>
 
 <br />
+<p>Follow me on my social medias:</p>
 <div style="
     display: flex;
     flex-direction: row;
@@ -31,10 +32,10 @@ revenue, always having a user-centric mindset.
 </a>
 
 <a href="https://www.linkedin.com/in/ivangarciawhil117/" target="_blank">
-<img src=https://img.shields.io/badge/Linkedin-%2300acee.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
 </a>
 <a href="https://www.youtube.com/@WhiLEx" target="_blank">
-<img src=https://img.shields.io/badge/Youtube-%2300acee.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=twitter  />
+<img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=twitter  />
 </a>
 </div>
 <br />
