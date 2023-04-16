@@ -14,6 +14,8 @@ revenue, always having a user-centric mindset.
 <p style=" color:white; font-weight:bold; ">Download my CV!</p>
  </div>
 </a>
+<a href="https://www.ejemplo.com" target="_blank">Enlace en nueva pestaña</a>
+
 </div>
 
 <br />
