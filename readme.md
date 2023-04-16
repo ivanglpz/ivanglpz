@@ -8,6 +8,14 @@ technologies within the React ecosystem that focuses on delivering
 performant and reusable applications to increase any company's value and
 revenue, always having a user-centric mindset.
 </p>
+<div align="left">
+<a href="https://whil.vercel.app/"  style="text-decoration:underline; text-decoration-color: white; width:320px;  cursor:pointer; " >
+<div style=" color:white; font-weight:bold; ">
+<p>Download my CV!</p>
+ </div>
+</a>
+</div>
+
 <br />
 <div style="
     display: flex;
