@@ -9,7 +9,7 @@ performant and reusable applications to increase any company's value and
 revenue, always having a user-centric mindset.
 </p>
 <div align="left">
-<a href="https://whil.vercel.app/"  style="text-decoration:underline; text-decoration-color: white; width:320px;  cursor:pointer; " >
+<a href="https://whil.vercel.app/"   target="_blank" style="text-decoration:underline; text-decoration-color: white; width:320px;  cursor:pointer; " >
 <div style=" color:white; font-weight:bold; ">
 <p style=" color:white; font-weight:bold; ">Download my CV!</p>
  </div>
