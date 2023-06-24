@@ -3,7 +3,7 @@
   <h3 >  I'm FrontEnd Web developer </h3>
 </div>
 <p>
-I'm developer with 2 years of experience in front-end architecture and
+I'm developer with 3 years of experience in front-end architecture and
 technologies within the React ecosystem that focuses on delivering
 performant and reusable applications to increase any company's value and
 revenue, always having a user-centric mindset.
