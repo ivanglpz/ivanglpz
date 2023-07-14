@@ -8,11 +8,6 @@ technologies within the React ecosystem that focuses on delivering
 performant and reusable applications to increase any company's value and
 revenue, always having a user-centric mindset.
 </p>
-<div align="left">
-<div style=" color:white; font-weight:bold; ">
-<p style=" color:white; font-weight:bold; ">Download my CV!</p>
- </div>
-</a>
 
 </div>
 
