@@ -1,16 +1,18 @@
 <div>
   <h1 > Hello! I'm Milton Ivan Garcia Lopez </h1>
-  <h3 >  I'm FrontEnd Web developer </h3>
+  <h3 >  I'm FullStack Web developer </h3>
 </div>
 <p>
-I'm developer with 3 years of experience in front-end architecture and
-technologies within the React ecosystem that focuses on delivering
-performant and reusable applications to increase any company's value and
-revenue, always having a user-centric mindset.
+I am passionate about crafting seamless web applications that combine frontend and backend technologies. With expertise in React.js, Next.js, Node.js, and GraphQL, I create user-centric and high-performance solutions.
+
+My problem-solving skills, attention to detail, and adaptability to new technologies make me an asset in delivering successful projects on time. I am committed to continuous learning and driving business growth through innovative and captivating digital experiences.
+
 </p>
 
 </div>
-
+ <p>
+ My Porftfolio: <a href="https://www.whil.online/">https://www.whil.online/</a>
+ </p>
 <br />
 <p>Follow me on my social medias:</p>
 <div style="
@@ -19,9 +21,6 @@ revenue, always having a user-centric mindset.
     gap:10px;
     flex-wrap:wrap;
 ">
-<a href="https://github.com/Whil117" target="_blank">
-<img src=https://img.shields.io/badge/github-%2325292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github  />
-</a>
 <a href="https://twitter.com/WhIlEx117" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter  />
 </a>
@@ -35,6 +34,8 @@ revenue, always having a user-centric mindset.
 </div>
 <br />
 
+ull
+
 <div >  
     <h3>Skills </h3>
     <img  src="https://skillicons.dev/icons?i=html" alt="HTML" height="50" />  
@@ -46,7 +47,7 @@ revenue, always having a user-centric mindset.
     <img  src="https://skillicons.dev/icons?i=apollo" alt="TypeScript" height="50" />  
       <img  src="https://skillicons.dev/icons?i=vue" alt="TypeScript" height="50" />  
     <img  src="https://skillicons.dev/icons?i=graphql" alt="HTML" height="50" />
-     <img  src="https://skillicons.dev/icons?i=rollup" alt="HTML" height="50" />    
+     <img  src="https://skillicons.dev/icons?i=rollup" alt="HTML" height="50" />  
     <img  src="https://skillicons.dev/icons?i=sass" alt="Sass" height="50" />  
     <img  src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" />  
     <br />
