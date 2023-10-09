@@ -6,13 +6,7 @@ I am a passionate programming professional with more than 3 years of experience 
 
 **Skills**
 
-<iframe
-  width="100%"
-  height="100%"
-  style="overflow: hidden; height: 240px; width: 780px;"
-  src="https://whil.online/api/skills"
->
-</iframe>
+<img src="https://whil.online/skillscover.svg" alt="top lang"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanglpz&layout=compact" alt="top lang"/>
 
