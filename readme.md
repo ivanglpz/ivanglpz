@@ -6,7 +6,7 @@ I am a passionate programming professional with more than 3 years of experience 
 
 **Skills**
 
-![skills](https://whil.online/skillscover.svg?raw=true)
+![skills](https://ivangarcia.vercel.app/skillscover.svg?raw=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanglpz&layout=compact" alt="top lang"/>
 
