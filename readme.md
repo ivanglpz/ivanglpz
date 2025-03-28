@@ -12,6 +12,8 @@ I am a passionate programming professional with more than 3 years of experience 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ivanglpz" alt="stats" /> -->
 
+![Banner](banner.jpg)
+
 # 👋 Hello, I'm Milton Iván García López
 
 🚀 Frontend Developer with **4 years of experience**, passionate about building **scalable** and **high-performance** web applications.
